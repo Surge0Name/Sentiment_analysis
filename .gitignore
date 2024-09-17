@@ -1,0 +1,9 @@
+#ignore  Python bytecode
+*.pyc
+__pycache__/
+
+#ignore NLTK data directry
+nltk_data/
+
+#ignore environment files
+.virtu_env
